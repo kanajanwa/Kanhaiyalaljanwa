@@ -1,0 +1,6 @@
+{
+  "name": "श्री जणवा समाज मेवाड़ डिजिटल मंच",
+  "description": "श्री जणवा समाज मेवाड़ का डिजिटल मंच - सामाजिक जागरूकता गतिविधियों, समाज के कार्यक्रमों और सहयोग राशि (दान) के सुचारू प्रबंधन के लिए एक एकीकृत पोर्टल।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
